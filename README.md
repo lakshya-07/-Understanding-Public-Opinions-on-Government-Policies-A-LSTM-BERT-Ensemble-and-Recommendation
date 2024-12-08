@@ -4,7 +4,7 @@ This repository contains code for sentiment analysis on online feedback regardin
 # Project Goals
 - Analyze public sentiment on government policies using NLP and an LSTM-BERT ensemble model.
 - Develop a recommendation system to filter relevant feedback data from online sources such as Twitter.
-- 
+  
  # Key Features
 - Data Preprocessing: Rigorous cleaning and preprocessing of textual data, including tokenization and stop word removal.
 - Sentiment Analysis: Leveraging NLTK's SentimentIntensityAnalyzer and a trained LSTM-BERT ensemble model to accurately classify sentiment polarity (positive, negative, neutral).
